@@ -54,7 +54,7 @@ on:
 
       bundle_id:
         description: "BundleID (Optional)"
-        default: "com.google.ios.youtube"
+        default: "mad.apps.youtube"
         required: true
         type: string
 
